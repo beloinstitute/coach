@@ -1,13 +1,13 @@
 **8 Step Process Perfects New Product Development**
-*On May 27, 2013 by Robert F Brands*
+*On May 27, 2013 by Robert F Brands* **Edited
 
-8 Step Process Perfects New Product Development Every entrepreneur knows that productivity is one of the key ingredients for successful product development. One of the two key processes in Robert’s Rules of Innovation is the NEW PRODUCT DEVELOPMENT PROCESS. A formalized, NPD process – also referred to and best practice: the Stage Gate® Process – is a must, from simple to sophisticated.
+The 8 Step Process Perfects New Product Development Every entrepreneur knows that productivity is one of the key ingredients for successful product development. One of the two key processes in Robert’s Rules of Innovation is the NEW PRODUCT DEVELOPMENT PROCESS. A formalized, NPD process – also referred to and best practice: the Stage Gate® Process – is a must, from simple to sophisticated.
 
 The New Product Development process is often referred to as The Stage-Gate innovation process, developed by Dr. Robert G. Cooper as a result of comprehensive research on reasons why products succeed and why they fail.
 
 When teams collaborate in developing new innovations, having the following eight ingredients mixed into your team’s new product developmental repertoire will ensure that it’s overall marketability will happen relatively quick, and accurately – making everyone productive across the board.
 
-Step 1: Generating
+**Step 1: Generating
 
 Utilizing basic internal and external SWOT analyses, as well as current marketing trends, one can distance themselves from the competition by generating ideologies which take affordability, ROI, and widespread distribution costs into account.
 
@@ -52,6 +52,6 @@ Step 8: Post Launch Review and Perfect Pricing
 
 Review the NPD process efficiency and look for continues improvements. Most new products are introduced with introductory pricing, in which final prices are nailed down after consumers have ‘gotten in’.  In this final stage, you’ll gauge overall value relevant to COGS (cost of goods sold), making sure internal costs aren’t overshadowing new product profits. You continuously differentiate consumer needs as your products age, forecast profits and improve delivery process whether physical, or digital, products are being perpetuated.
 
-Remember: The Process Is Loose
+**Remember: The Process Is Loose**
 
 The entire new product development process is an ever evolving testing platform where errors will be made, designs will get trashed, and loss could be recorded. Having your entire team working in tight synchronicity will ensure the successful launch of goods or services, even if reinventing your own wheel. Productivity during product development can be achieved if, and only if, goals are clearly defined along the way and each process has contingencies clearly outlined on paper.
