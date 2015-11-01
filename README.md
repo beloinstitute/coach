@@ -1,2 +1,5 @@
 # coach
 Product Development and Design UX
+
+**Product Development:** *The creation of products with new or different characteristics that offer new or additional benefits to the customer.
+ Product development may involve modification of an existing product or its presentation, or formulation of an entirely new product that satisfies a newly defined customer want or market niche.*
