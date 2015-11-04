@@ -5,6 +5,9 @@
 
  ![alt text](https://github.com/tamzi/coach/tree/master/imgs/whyprod1.png "Where product thinking lies")
 
+ The core user experience is not a set of features; in fact, it is the job users hire the product for. Uber’s core user experience is to get a taxi easily at any time. The countdown, displaying when exactly the taxi will arrive, is a suitable feature that expands this experience. But Uber’s product works regardless of this feature. The countdown, on the other hand, cannot live without the product (the certainty to get a taxi easily at any time). There is a one-way interrelationship between feature and product: Features don’t work without the product. This is why designers should think in products first.
+   ` “Think in products, not in features” `
+
 
 
 
